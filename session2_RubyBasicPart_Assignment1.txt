@@ -1,0 +1,16 @@
+5. Problem statement
+
+define the following
+Object: Its as instance of a class, object is a combination of data and methods.
+These objects communicate together through methods. Each object can receive messages, send messages and process data.
+ 
+Class: Its a blueprint from which individual objects are created.
+
+Inheritance:Inheritance is a way to form new classes(child class) using classes that have already been defined(parent class). 
+We can pass methods, variables etc properties from parent to child class through inheritance.
+
+Polymorphism:Polymorphism is the process of using an operator or function in different ways for different data inputs.
+
+Encapsulation:Its a mechanism which bind code and data together
+
+Abstraction: It is process of simplifying complex reality by laying emphasis on what an object is or does rather than how it is represented or how it works
